@@ -13,7 +13,7 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-dark overflow-hidden shadow-xl sm:rounded-lg p-6">
-                <div class="shadow-xl sm:rounded-lg" id="map" style="width: 100%; height: 80vh;"></div>
+                <div class="shadow-xl sm:rounded-lg" id="map" style="width: 100%; height: 75vh;"></div>
             </div>
         </div>
     </div>
